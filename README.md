@@ -1,3 +1,3 @@
 # Weather app using api
 
-The project is live or hosted on this link : https://weather-app-using-api-samridh-gaur.vercel.app/
+The Project is Hosted on : https://weather-app-using-api-samridh-gaur.vercel.app/
